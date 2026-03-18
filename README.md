@@ -23,7 +23,7 @@ Note: Some assets from the Unity Asset Store are required for a complete build. 
 
 ## Licenses
 [MIT](./LICENSE)
-<br><br>
+<br>
 
 [Stylized Water 2](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-2-170386) by Staggart Creations: Required for the main scene. Available for purchase on the Unity Asset Store. Used under the standard Unity Asset Store EULA.
-<br><br>
+<br>
